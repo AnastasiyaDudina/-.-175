@@ -1,2 +1,21 @@
-# для лаб по "Программная инженерия" ПИ -.- 175
-[app.js] - port 3000, для запуска [$ npm start]
+# To start on OpenServer
+$git clone 
+
+.env.copy.env  to  .env
+
+$ cd \путь к папке\
+
+$ composer install
+
+$ php artisan serve 
+
+# Frontend
+Quasar
+
+# Backend
+Laravel
+
+# Database
+MySQL
+
+restfullapi.sql
