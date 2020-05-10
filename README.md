@@ -1,4 +1,4 @@
-# To start on OpenServer
+# To start on OpenServer for Laba6
 $git clone 
 
 .env.copy.env  to  .env
